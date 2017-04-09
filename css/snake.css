@@ -1,0 +1,33 @@
+body{
+  position: absolute; 800px;
+  padding left: 100px;
+  align-content: center;
+  font-family: forte, century-ghotic;
+  color: #E6E6E6;
+  font-size: 50px;
+  background-color: #1C1C1C;
+}
+
+#espacioJugar{
+  width: 400px;
+  height: 400px;
+  border: solid #424242;
+  background: #585858;
+}
+
+#snake{
+  width: 20px;
+  height: 20px;
+  background: #64FE2E;
+}
+
+button{
+  background: #FE2E2E;
+  border-radius: 20px;
+  border: none;
+  height: 50px;
+  width: 400px;
+  color: #D8D8D8;
+  font-family: Aharoni;
+  font-size: 20px;
+}
